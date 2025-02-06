@@ -1,2 +1,17 @@
-# Technical-Test-Internship-at-Jago-Bank-Data-Analyst
-This repository contains my submission for the Data Analyst Internship technical test at Jago Bank, covering data cleaning, preprocessing, exploratory data analysis (EDA), SQL queries, and data visualization to generate business insights. This project is solely for the internship selection process and does not contain real company data.
+This repository contains my technical test submission for the Data Analyst Internship position at Jago Bank.
+
+📌 Overview
+In this project, I analyze and process data to extract valuable insights and support decision-making. The tasks involve:
+
+Data cleaning and preprocessing
+Exploratory Data Analysis (EDA)
+SQL queries for data extraction
+Business insights and recommendations
+
+🛠️ Tools & Technologies
+SQL (SQLITE)
+Microsoft Excel
+
+📊 Key Findings
+Summary of main insights from the dataset
+Business recommendations based on analysis
