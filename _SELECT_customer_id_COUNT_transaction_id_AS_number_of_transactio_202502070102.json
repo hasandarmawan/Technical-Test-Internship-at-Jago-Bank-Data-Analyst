@@ -1,0 +1,4 @@
+{
+"SELECT customer_id, \r\n       COUNT(transaction_id) AS number_of_transactions, \r\n       SUM(list_price) AS total_spending\r\nFROM transactions\r\nWHERE  order_status = 'Approved'\r\nGROUP BY customer_id\r\nHAVING number_of_transactions > 5 AND total_spending > 10000\r\nORDER BY number_of_transactions, total_spending DESC\r\n\r\n": [
+
+]}
